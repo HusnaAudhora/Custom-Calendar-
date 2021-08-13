@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCustomCalendar</string>
+    <string name="save">Save</string>
+    <string name="event_name" />
+    <string name="Event_Name" />
+    <string name="eventName">Event Name</string>
+</resources>
